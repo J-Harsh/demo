@@ -6,6 +6,7 @@
             "price":499,
             "description":[
                 {
+                    "type":"T-shirt",
                     "color":"black",
                     "inStock":true,
                     "available":500
@@ -19,6 +20,7 @@
             "price":699,
             "description":[
                 {
+                    "type":"T-shirt",
                     "color":"gray",
                     "inStock":false,
                     "available":500
@@ -45,6 +47,7 @@
             "price":999,
             "description":[
                 {
+                    "type":"Shirt",
                     "color":"green",
                     "inStock":true,
                     "available":500
@@ -58,6 +61,7 @@
             "price":1499,
             "description":[
                 {
+                    "type":"Shirt",
                     "color":"pink",
                     "inStock":true,
                     "available":500
