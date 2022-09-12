@@ -1,14 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "items": [
+        {
+            "title": "Men Navy Blue Polo Collar T-shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/l0e6kcw0/t-shirt/h/g/d/m-half-triangel-black-one-nb-nicky-boy-original-imagc747apzffz5q.jpeg?q=70",
+            "price":499,
+            "description":[
+                {
+                    "color":"black",
+                    "inStock":true,
+                    "available":500
+                }
+            ]
+
+        },
+        {
+            "title": "Solid Men Round Neck Gray T-Shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/8/n/d/m-t28-5316k-denim-fy22-23-marks-spencer-original-imagh7w2buxtbmxh.jpeg?q=70",
+            "price":699,
+            "description":[
+                {
+                    "color":"gray",
+                    "inStock":true,
+                    "available":500
+                }
+            ]
+
+        },
+        {
+            "title": "Men Slim Fit Checkered Spread Collar Casual Shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/knoxnrk0/shirt/a/b/m/40-es-chfn30-blue-blackberrys-original-imag2bd5g9d5fxmr.jpeg?q=70",
+            "price":999,
+            "description":[
+                {
+                    "color":"blue",
+                    "inStock":true,
+                    "available":500
+                }
+            ]
+
+        },
+        {
+            "title": "Men Regular Fit Shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/kndi4y80/shirt/h/x/j/40-es-chfn21-green-blackberrys-original-imag22hggwhejtxm.jpeg?q=70",
+            "price":999,
+            "description":[
+                {
+                    "color":"green",
+                    "inStock":true,
+                    "available":500
+                }
+            ]
+
+        },
+        {
+            "title": "Men Slim Fit Solid Formal Shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/d/k/o/40-arfksh0002-arrow-original-image72qdhgjdcfw-bb.jpeg?q=70",
+            "price":1499,
+            "description":[
+                {
+                    "color":"pink",
+                    "inStock":true,
+                    "available":500
+                }
+            ]
+
+        }
+    ]
 }
