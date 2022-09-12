@@ -6,6 +6,7 @@
             "price":499,
             "description":[
                 {
+                    "size":"XL",
                     "type":"T-shirt",
                     "color":"black",
                     "inStock":true,
@@ -20,6 +21,7 @@
             "price":699,
             "description":[
                 {
+                    "size":"M",
                     "type":"T-shirt",
                     "color":"gray",
                     "inStock":false,
@@ -34,6 +36,7 @@
             "price":999,
             "description":[
                 {
+                    "size":"M",
                     "type":"Shirt",
                     "color":"blue",
                     "inStock":true,
@@ -48,6 +51,7 @@
             "price":999,
             "description":[
                 {
+                    "size":"S",
                     "type":"Shirt",
                     "color":"green",
                     "inStock":true,
@@ -62,6 +66,7 @@
             "price":1499,
             "description":[
                 {
+                    "size":"L",
                     "type":"Shirt",
                     "color":"pink",
                     "inStock":true,
