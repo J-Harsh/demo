@@ -34,6 +34,7 @@
             "price":999,
             "description":[
                 {
+                    "type":"Shirt",
                     "color":"blue",
                     "inStock":true,
                     "available":500
