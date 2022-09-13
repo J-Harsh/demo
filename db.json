@@ -14,21 +14,19 @@
                     "available":500
                 }
         },
-        {
-            "id":2,
-            "title": "Solid Men Round Neck Gray T-Shirt",
-            "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/8/n/d/m-t28-5316k-denim-fy22-23-marks-spencer-original-imagh7w2buxtbmxh.jpeg?q=70",
-            "price":699,
+       {
+            "id":1,
+            "title": "Men Navy Blue Polo Collar T-shirt",
+            "image":"https://rukminim1.flixcart.com/image/832/832/l0e6kcw0/t-shirt/h/g/d/m-half-triangel-black-one-nb-nicky-boy-original-imagc747apzffz5q.jpeg?q=70",
+            "price":499,
             "description":
                 {
-                    "sizes":["XL","S"],
+                    "sizes":["L","M","S"],
                     "type":"T-shirt",
-                    "color":"gray",
-                    "inStock":false,
+                    "color":"black",
+                    "inStock":true,
                     "available":500
                 }
-            
-
         },
         {
             "id":3,
